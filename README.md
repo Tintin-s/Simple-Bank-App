@@ -1,2 +1,2 @@
 # Simple-Bank-App
-A console bank app that simulates basic banking operations such as account creation, deposits, withdrawals and balance checks.
+This is a java console-based bank application that simulates basic banking operations such as account creation, deposits, withdrawals and balance checks.
